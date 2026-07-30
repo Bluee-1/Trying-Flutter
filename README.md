@@ -1,2 +1,2 @@
-# Trying-Flutter
-somehow human need to learn something for job
+# SPRINT PROJECT: "SakuSiswa" – Smart Financial Tracker
+Our first collaboration
